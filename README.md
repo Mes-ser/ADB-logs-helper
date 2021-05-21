@@ -1,4 +1,4 @@
-1# ADB-logs-helper
+# ADB-logs-helper
 Helps with logs gathering
 
 
